@@ -1,0 +1,8 @@
+#congrats_main {
+  display: flex;
+  align-items: center;
+  background-image: url("../../assets/congrats.png");
+  background-position: right;
+  background-size: 1000px;
+  background-repeat: no-repeat;
+}

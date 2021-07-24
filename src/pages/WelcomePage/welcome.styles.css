@@ -1,0 +1,8 @@
+#welcome_main {
+  display: flex;
+  align-items: center;
+}
+
+#welcome_img {
+  background-image: url("../../assets/welcome.png");
+}
