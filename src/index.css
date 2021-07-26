@@ -27,6 +27,41 @@ main {
   align-items: flex-start;
 }
 
+.padding-10 {
+  padding: 20px 10px;
+}
+
+.flexbox {
+  width: 400px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.box {
+  width: 50px;
+  height: 20px;
+  border-radius: 10px;
+}
+
+.default {
+  background-color: #5bc0be;
+}
+
+.selected {
+  background-color: #84dd63;
+}
+
+.radiolabel {
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.radio {
+  margin-left: 10px;
+}
+
 .small_txt {
   margin-left: 10vw;
   margin: 0 100px;

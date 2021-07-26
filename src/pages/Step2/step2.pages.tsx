@@ -57,7 +57,7 @@ function Step2() {
             />
 
             <div className="btns">
-              <Link to="/congrats">
+              <Link to="/vote">
                 <SubmitButton variant="contained" color="primary">
                   <p className="white-txt">Submit</p>
                 </SubmitButton>
